@@ -20,10 +20,12 @@
     - Circom (Groth16)
     - plonky2
     - Risc Zero
+- 4-month-long Uncloak Rust cryptography course ([link](https://uncloak.org/), [Discord](https://discord.gg/TYwr4pMS2h))
+- ZKHack 3 competition launched ([website](https://zkhack.dev))
 - creating a zkml community website
-- improving the calls by having an agenda on github
-- resource aggregator
-- creating zkml community org on GitHub
+- improving the calls by having an agenda on github - [zkml-community-calls](https://github.com/zkml-community/zkml-community-calls)
+- resource aggregator - [awesome-zkml](https://github.com/zkml-community/awesome-zkml)
+- creating zkml community org on GitHub - [zkml-community](https://github.com/zkml-community/)
 
 
 ### Resources

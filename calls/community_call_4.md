@@ -2,7 +2,13 @@
 
 ### Attendees
 
-tbd
+- Ryan + Daniel (Modulus Labs)
+- Ketan
+- Andrew
+- Justin
+- Ethan Cemer
+- Vishesh
+- Jonatan
 
 ### Agenda
 ***Statement***
@@ -20,4 +26,23 @@ Hence, I've come up with some ideas for 2023. Feel free to add to this below :)
 - What are the latest breakthroughs in zkml research?
 - Can we create a decision tree for which methodology to apply to which problems (FHE, MPC, ZKP, ZKML, etc.)?
 
+
+### Timeline
+- Introductions of new joiners
+- Interest from a DeFi-perspective
+    - MEV-classification on-chain
+    - enshrining protocol rules that use ML instead of heuristics
+- Proof-of-Alpha: custom backtesting on hidden, trustless models
+- Lela vs. the world going live in February, sign up here: https://forms.gle/kCPvL6uhzmCfzCk36
+- Decentralized/distributed compute companies:
+    - https://www.gensyn.ai/
+    - render - video rendering
+    - phala network
+    - Akash
+    - Bacalhau
+    - Golem network
+ 
+ 
+
 ### Resources
+[Notes for ZKML Community Call #3](https://github.com/zkml-community/calls/edit/main/calls/community_call_3.md)
